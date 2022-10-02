@@ -19,6 +19,8 @@ The moonquake visualizer aims to help researchers identify where recorded quakes
 We aimed to give the most value to the data and create a UI able to showcase its worth to the user. The user is able to
 select from 3 different datasets and see the location, recorded date, and other information that came with its dataset.
 
+![moon-quake-screenshot](https://raw.githubusercontent.com/GeorgeCodeHub/nac-2022-Moonquake-Visualizer/main/src/assets/moonquake-1.png)
+
 The final project used the following technologies:
 
 - ReactJS
